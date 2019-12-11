@@ -1,0 +1,44 @@
+.top_bar{
+	padding: 5px 0;
+	color:white;
+	background: -webkit-linear-gradient(to right,yellow, orangered 50%, yellow);
+  background: -o-linear-gradient(to right,yellow, orangered 50%, yellow);
+  background: -moz-linear-gradient(to right,yellow, orangered 50%, yellow);
+  background: linear-gradient(to right,yellow, orangered 50%, yellow);
+}
+
+.float-r{
+	float: right;
+}
+.float-l{
+	float:left;
+}
+.mar-t-10px{
+	margin-top: 10px;
+}
+.mar-l-10px{
+	margin-left: 10px;
+}
+.glyphicon {
+	 margin-right:5px;
+ }
+ .list-group-item{
+	 margin-bottom: 10px;
+ }
+ .list-group-item .image{
+	 width: 40%;
+	 height: 40%;
+ }
+.grid-group-item{
+	width: 30%;
+	height: 30%;
+	float: left;
+	margin-left: 10px;
+}
+.grid-group-item .image{
+	width: 80%;
+	height: 200px;
+}
+.item_display{
+	color: red;
+}
